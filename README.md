@@ -1,4 +1,4 @@
-# Uniswap V3
+# EquiDEX v1
 
 [![Lint](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml)
 [![Tests](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/tests.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/tests.yml)
@@ -12,7 +12,7 @@ repository.
 
 ## Bug bounty
 
-This repository is subject to the Uniswap V3 bug bounty program, per the terms defined [here](./bug-bounty.md).
+This repository is subject to the EquiDEX v1 bug bounty program, per the terms defined [here](./bug-bounty.md).
 
 ## Local deployment
 
@@ -37,7 +37,7 @@ your local deployment.
 
 ## Using solidity interfaces
 
-The Uniswap v3 interfaces are available for import into solidity smart contracts
+The EquiDEX v1 interfaces are available for import into solidity smart contracts
 via the npm artifact `@uniswap/v3-core`, e.g.:
 
 ```solidity
